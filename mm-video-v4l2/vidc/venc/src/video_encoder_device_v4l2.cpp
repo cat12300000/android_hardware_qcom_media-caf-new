@@ -1,3 +1,4 @@
+#include "vidc_v4l2_compat.h"
 /*--------------------------------------------------------------------------
 Copyright (c) 2010-2014, The Linux Foundation. All rights reserved.
 

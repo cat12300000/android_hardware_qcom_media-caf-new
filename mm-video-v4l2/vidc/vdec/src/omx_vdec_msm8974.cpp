@@ -46,6 +46,7 @@ ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #include <unistd.h>
 #include <errno.h>
 #include "omx_vdec.h"
+#include "vidc_v4l2_compat.h"
 #include <fcntl.h>
 #include <limits.h>
 #include <stdlib.h>
